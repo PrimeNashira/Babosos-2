@@ -518,3 +518,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [27Jan2025 23:05:02.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
 [27Jan2025 23:05:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
 [27Jan2025 23:05:02.946] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[27Jan2025 23:05:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 23:14:45.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 23:14:45.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
