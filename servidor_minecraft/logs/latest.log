@@ -506,3 +506,15 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [27Jan2025 22:44:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
 [27Jan2025 22:44:01.473] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
 [27Jan2025 22:44:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jerald joined the game
+[27Jan2025 23:02:18.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrimeRios03 lost connection: Disconnected
+[27Jan2025 23:02:18.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 left the game
+[27Jan2025 23:05:02.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.196.224.251:59779] logged in with entity id 2653 at (-1610.589868109687, 130.0625, 130.55916401945493)
+[27Jan2025 23:05:02.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[27Jan2025 23:05:02.868] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[27Jan2025 23:05:02.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[27Jan2025 23:05:02.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[27Jan2025 23:05:02.876] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[27Jan2025 23:05:02.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[27Jan2025 23:05:02.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[27Jan2025 23:05:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[27Jan2025 23:05:02.946] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
