@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "hospital-save.gl.joinmc.link",
-          "assigned_srv": "hospital-save.gl.joinmc.link",
+          "assigned_domain": "iraq-player.gl.joinmc.link",
+          "assigned_srv": "iraq-player.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "31205feb-90a7-4908-abdb-7d39b292991f",
+          "id": "1879e1f4-25f6-4540-af48-3966690e2af6",
           "ip_hostname": "25.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 21309,
-          "port_start": 21308,
+          "port_end": 33169,
+          "port_start": 33168,
           "region": "global",
           "static_ip4": "147.185.221.25",
           "static_ip6": "2602:fbaf:0:1::19",
@@ -26,17 +26,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-01-19T02:10:10.705711Z",
+      "created_at": "2025-01-27T22:41:40.011096Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "dc36911b-8abb-4717-98d3-c4a9dfa81c02",
+      "id": "68026b66-1cf5-4f68-a632-a676dfe7662c",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "869c5a90-6f5a-47bb-9331-5821ddd2053e",
-          "agent_name": "babosos",
+          "agent_id": "32153dfb-7b0a-4807-957a-be3b329ee350",
+          "agent_name": "from-key-638c",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
